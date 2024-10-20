@@ -31,7 +31,7 @@ $ npm run dev
 $ npm install kaboom
 ```
 
-    * Using Kaboom with NPM requires `esbuild`, `webpack`, `parcel`, and `vitejs`.
+* Using Kaboom with NPM requires `esbuild`, `webpack`, `parcel`, and `vitejs`.
 
 ### X/X/XX:
 * Text
