@@ -27,6 +27,10 @@ $ npm run dev
 
 * It's easier to get other packages and use version control using Node.js and npm.
 
+```JS
+$ npm install kaboom
+```
+
     * Using Kaboom with NPM requires `esbuild`, `webpack`, `parcel`, and `vitejs`.
 
 ### X/X/XX:
