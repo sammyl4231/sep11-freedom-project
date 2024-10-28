@@ -33,8 +33,12 @@ $ npm install kaboom
 
 * Using Kaboom with NPM requires `esbuild`, `webpack`, `parcel`, and `vitejs`.
 
-### X/X/XX:
-* Text
+### 10/27/24:
+* Using kaboom.js, I ran the code for a custom component tutorial, and it made the output "get funky" by pressing the space bar
+
+* When I changed the `Let isFunky` to `true` and ran the code, the 'Bean' went funky by itself without pressing any buttons
+
+* When I changed `Let isFunky` back to `false` and ran the code, the 'Bean' was back to normal and I pressed the space bar to make it "get funky"
 
 
 <!--
