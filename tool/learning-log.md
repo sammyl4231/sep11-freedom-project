@@ -40,6 +40,13 @@ $ npm install kaboom
 
 * When I changed `Let isFunky` back to `false` and ran the code, the 'Bean' was back to normal and I pressed the space bar to make it "get funky"
 
+### 11/15/24
+
+* I was running a test code in the Kaboom.js playground, and when I pressed "Run" on the code, the sprite "Bean" stayed in the same spot on the output, while the ghost sprites moved to different spots.
+
+* "Bean" spins staying in place  when `anchor()` is `center`. I changed `anchor()` to `left` or `right`, "Bean" would spin out of place.
+
+* I changed the number on `player.angle += 120 * dt()` from 120 to higher  and lower numbers. When the number was greater, "Bean" would spin faster. When the number was smaller, "Bean" would spin slower.
 
 <!--
 * Links you used today (websites, videos, etc)
