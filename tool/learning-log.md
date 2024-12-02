@@ -58,6 +58,16 @@ $ npm install kaboom
 
 * I tried out the platformer tutorial, and it was really fun. I use the arrow buttons to move the "Bean" sprite left and right. And I use the space button to jump. I changed the duration time of how long you stay big after eating the apple.
 
+### 12/2/24 LL5
+
+* I tinkered with the draw, rpg, and concert tutorials on the Kaboom.js playground.
+
+* In the draw tutorial, when I hovered my cursor on the output, the cursor would show a black line trace in the motion of my cursor. When I pressed the button on the mouse and held it, I could use it to draw and leave the motion strokes.
+
+* In the concert tutorial, I used the arrow keys to move "Bean" left and right, and the space bar to jump. I made Bean jump using the space bar to hit colorful musical note blocks that would let out their own jingle. When Bean hits the red block, the output shakes and zooms in on Bean, then I have to run the code over again.
+
+* In the rpg tutorial, Bean and friends are trapped in rooms and Bean needs to collect the key to unlock the door to escape the room. Bean's friends are there to help Bean get out. I used the arrow keys to move, when Bean goes to a friend, it shows a helpful message from the friend. When Bean collects the key, Bean can open the door and go to the next level.
+
 <!--
 * Links you used today (websites, videos, etc)
 * Things you tried, progress you made, etc
