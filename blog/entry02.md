@@ -11,7 +11,11 @@ I'm using [Kaboom.js](https://kaboomjs.com/) to learn about all of this. I will 
 
 ### Engineering Design Process
 
+The current EDP stage I'm in is "Test and evaluate the prototype". I tested out the current code for the platforming, it worked just as it should. Next stage I plan on moving to will be "Improve as needed". I will in the future be changing some parts of the code when I do my actual freedom project.
 
+### Skills
+
+Skills I developed were "Creativity" and "Consideration". I developed creativity when I changed some things in the code and ran it, my own changes worked in the output, which I could use when I'm making my freedom project. I developed consideration because when my freedom project is in progress to done, other people who see my project can try it out and use it.
 
 [Previous](entry01.md) | [Next](entry03.md)
 
