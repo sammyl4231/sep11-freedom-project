@@ -68,6 +68,14 @@ $ npm install kaboom
 
 * In the rpg tutorial, Bean and friends are trapped in rooms and Bean needs to collect the key to unlock the door to escape the room. Bean's friends are there to help Bean get out. I used the arrow keys to move, when Bean goes to a friend, it shows a helpful message from the friend. When Bean collects the key, Bean can open the door and go to the next level.
 
+### 12/16/24
+
+* I tinkered with the ai tutorial. In this tutorial, I used the arrow keys to move Bean around the output screen, and Ghosty follows him. At a certain point, Ghosty stops and shoots a bullet at Bean where he stops. When Bean gets shot, he disappears with a "Kaboom".
+
+* I tinkered with the flappy tutorial. In this tutorial, Bean has to go through the holes between the blue blocks. To make him flap, I can press the space bar or click on the output screen with my mouse cursor. When Bean goes through the blue blocks, it counts how many times I went through the blue blocks.
+
+* I tinkered with the tween tutorial. In this tutorial, when I used my cursor and clicked on the output screen, Bean would move in the direction and position of my cursor. I also used the arrow keys to change the text in upper left corner: `linear`, `easeInSine`, `easeOutSine`, `easeInOutSine`, `easeInQuad`, `easeOutQuad`, `easeInOutQuad`, `easeInCubic`, `easeOutCubic`, `easeInOutCubic`, etc.
+
 <!--
 * Links you used today (websites, videos, etc)
 * Things you tried, progress you made, etc
