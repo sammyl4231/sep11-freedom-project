@@ -54,27 +54,35 @@ $ npm install kaboom
 
 * I tried different tutorials on the Kaboom.js playground. I tinkered with maze, platforming, and pong.
 
-* I was tinkering with the pong game, the output is interactive. I moved my cursor up and down on the screen, and the barriers would move up and down. The pong ball would come from the middle of the output and it would count by 1's by how many times the ball hit the barriers.
+* I was tinkering with the [pong](https://kaboomjs.com/play?example=pong) game, the output is interactive. I moved my cursor up and down on the screen, and the barriers would move up and down. The pong ball would come from the middle of the output and it would count by 1's by how many times the ball hit the barriers.
 
-* I tried out the platformer tutorial, and it was really fun. I use the arrow buttons to move the "Bean" sprite left and right. And I use the space button to jump. I changed the duration time of how long you stay big after eating the apple.
+* I tried out the [platformer](https://kaboomjs.com/play?example=platformer) tutorial, and it was really fun. I use the arrow buttons to move the "Bean" sprite left and right. And I use the space button to jump. I changed the duration time of how long you stay big after eating the apple.
 
 ### 12/2/24 LL5
 
 * I tinkered with the draw, rpg, and concert tutorials on the Kaboom.js playground.
 
-* In the draw tutorial, when I hovered my cursor on the output, the cursor would show a black line trace in the motion of my cursor. When I pressed the button on the mouse and held it, I could use it to draw and leave the motion strokes.
+* In the [draw](https://kaboomjs.com/play?example=draw) tutorial, when I hovered my cursor on the output, the cursor would show a black line trace in the motion of my cursor. When I pressed the button on the mouse and held it, I could use it to draw and leave the motion strokes.
 
-* In the concert tutorial, I used the arrow keys to move "Bean" left and right, and the space bar to jump. I made Bean jump using the space bar to hit colorful musical note blocks that would let out their own jingle. When Bean hits the red block, the output shakes and zooms in on Bean, then I have to run the code over again.
+* In the [concert](https://kaboomjs.com/play?example=concert) tutorial, I used the arrow keys to move "Bean" left and right, and the space bar to jump. I made Bean jump using the space bar to hit colorful musical note blocks that would let out their own jingle. When Bean hits the red block, the output shakes and zooms in on Bean, then I have to run the code over again.
 
-* In the rpg tutorial, Bean and friends are trapped in rooms and Bean needs to collect the key to unlock the door to escape the room. Bean's friends are there to help Bean get out. I used the arrow keys to move, when Bean goes to a friend, it shows a helpful message from the friend. When Bean collects the key, Bean can open the door and go to the next level.
+* In the [rpg](https://kaboomjs.com/play?example=rpg) tutorial, Bean and friends are trapped in rooms and Bean needs to collect the key to unlock the door to escape the room. Bean's friends are there to help Bean get out. I used the arrow keys to move, when Bean goes to a friend, it shows a helpful message from the friend. When Bean collects the key, Bean can open the door and go to the next level.
 
 ### 12/16/24
 
-* I tinkered with the ai tutorial. In this tutorial, I used the arrow keys to move Bean around the output screen, and Ghosty follows him. At a certain point, Ghosty stops and shoots a bullet at Bean where he stops. When Bean gets shot, he disappears with a "Kaboom".
+* I tinkered with the [ai](https://kaboomjs.com/play?example=ai) tutorial. In this tutorial, I used the arrow keys to move Bean around the output screen, and Ghosty follows him. At a certain point, Ghosty stops and shoots a bullet at Bean where he stops. When Bean gets shot, he disappears with a "Kaboom".
 
-* I tinkered with the flappy tutorial. In this tutorial, Bean has to go through the holes between the blue blocks. To make him flap, I can press the space bar or click on the output screen with my mouse cursor. When Bean goes through the blue blocks, it counts how many times I went through the blue blocks.
+* I tinkered with the [flappy](https://kaboomjs.com/play?example=flappy) tutorial. In this tutorial, Bean has to go through the holes between the blue blocks. To make him flap, I can press the space bar or click on the output screen with my mouse cursor. When Bean goes through the blue blocks, it counts how many times I went through the blue blocks.
 
-* I tinkered with the tween tutorial. In this tutorial, when I used my cursor and clicked on the output screen, Bean would move in the direction and position of my cursor. I also used the arrow keys to change the text in upper left corner: `linear`, `easeInSine`, `easeOutSine`, `easeInOutSine`, `easeInQuad`, `easeOutQuad`, `easeInOutQuad`, `easeInCubic`, `easeOutCubic`, `easeInOutCubic`, etc.
+* I tinkered with the [tween](https://kaboomjs.com/play?example=tween) tutorial. In this tutorial, when I used my cursor and clicked on the output screen, Bean would move in the direction and position of my cursor. I also used the arrow keys to change the text in upper left corner: `linear`, `easeInSine`, `easeOutSine`, `easeInOutSine`, `easeInQuad`, `easeOutQuad`, `easeInOutQuad`, `easeInCubic`, `easeOutCubic`, `easeInOutCubic`, etc.
+
+### 1/6/25
+
+* I tinkered with the [scenes](https://kaboomjs.com/play?example=scenes) tutorial. This is like the platforming tutorial, but things are very different. In this tutorial, you move Bean across the blocks, collect the coins, go through the portals, and avoid the danger. When you collect 3 coins, you clear the level. Unlike the plaforming game, you have to go through all 3 parts of the level. You use the arrow keys to move, and the space bar to jump. Avoid the spikes and voids.
+
+* I tinkered with the [eatlove](https://kaboomjs.com/play?example=eatlove) tutorial. In this tutorial, you use your cursor to move Bean around the output screen. He has to only eat the hearts. When Bean eats the hearts, a "Kaboom" appears and makes a vibrating affect to the screen. When Bean eats the watermelons, grapes, apples, and pineapples, you lose and you have to start over.
+
+* I thinkered with the [flamebar](https://kaboomjs.com/play?example=flamebar) tutorial. In this tutorial, you use the arrow keys to move Bean around the screen, but he has to avoid touching the "flamebars", which are made out of pineapples. When Bean touches the "flamebars", he disappears in a "Kaboom".
 
 <!--
 * Links you used today (websites, videos, etc)
