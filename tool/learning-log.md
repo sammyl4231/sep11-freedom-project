@@ -84,6 +84,14 @@ $ npm install kaboom
 
 * I thinkered with the [flamebar](https://kaboomjs.com/play?example=flamebar) tutorial. In this tutorial, you use the arrow keys to move Bean around the screen, but he has to avoid touching the "flamebars", which are made out of pineapples. When Bean touches the "flamebars", he disappears in a "Kaboom".
 
+### 1/14/25
+
+* I tinkered with the [egg](https://kaboomjs.com/play?example=egg) tutorial. This tutorial is Bean laying eggs! The eggs will appear in Bean's previous spot and Bean will move to a different spot when you press the space bar. And there's a score counter at the top left, but usually you don't see it do anything.
+
+* I tinkered with the [hover](https://kaboomjs.com/play?example=hover) tutorial. This tutorial allows the user to hover the cursor over Bean and he changes colors. He starts off as a different color other than his original color. The first one only changes from red to green. The second one automatically changes from red to green to blue when the cursor stays on it.
+
+I tinkered with the [postEffect](https://kaboomjs.com/play?example=postEffect) tutorial. This tutorial is also like the platforming tutorial, except that you can make the graphics look different by pressing the up and down arrow keys.
+
 <!--
 * Links you used today (websites, videos, etc)
 * Things you tried, progress you made, etc
