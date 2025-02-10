@@ -1,11 +1,14 @@
 # Plan
 
-## Tool: 
-## Product: 
+## Tool: [Kaboom.js](https://kaboomjs.com/)
+## Product: Platforming game
 
 ---
 
 ## Timeline
+
+Plan - due 2/14
+MVP - due 4/21
 
 #### MVP
 
