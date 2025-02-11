@@ -9,12 +9,23 @@
 
 Plan - due 2/14
 
+Over February/Spring Break - start coding for freedom project platforming game
+
 MVP - due 4/21
 
 #### MVP
 
-- [ ] Task (deadline: X)
-  - [ ] Subtask (deadline: X)
+- [ ] Game title screen
+  - [ ] Make it stand out using as many colors and being creative with the way it looks
+  - [ ] Make the "start" button work
+  - [ ] Make a "settings" page
+  - [ ] Make a "controls page"
+- [ ] Platforming game itself
+  - [ ] Create a sprite of whatever character I want
+  - [ ] Make the character move every control
+  - [ ] Make any sprite an enemy and get a game over
+  - [ ] Think of something to make the currency to earn in the levels
+  - [ ] Make sprites that would lead to the next level like a teleporter
 
 #### Beyond MVP
 
