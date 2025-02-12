@@ -5,6 +5,10 @@
 
 For my freedom project, I will be makeing a platforming game. For this, I will be coding levels with grounds, enemies, points, sprites, sounds, and more. I will be testing out my code for everything I need to make this project. Using Kaboom.js, I can add sound effects to whatever happens whether I lose/die, collect points, win the game, stomp out enemies, teleport to the next level, jump, and everything. I will create a screen when I lose or win the game, a title screen, a settings menu, and a "how to play" menu.
 
+### Breaking down tasks
+
+To make things easier, I can start with one piece of the project at a time. I can start with how the background of the level(s) would look. And if I like how the background looks, I can start adding the grounds and platforms.
+
 ---
 
 ## Timeline
