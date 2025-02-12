@@ -3,6 +3,8 @@
 ## Tool: [Kaboom.js](https://kaboomjs.com/)
 ## Product: Platforming game
 
+For my freedom project, I will be makeing a platforming game. For this, I will be coding levels with grounds, enemies, points, sprites, sounds, and more. I will be testing out my code for everything I need to make this project. Using Kaboom.js, I can add sound effects to whatever happens whether I lose/die, collect points, win the game, stomp out enemies, teleport to the next level, jump, and everything. I will create a screen when I lose or win the game, a title screen, a settings menu, and a "how to play" menu.
+
 ---
 
 ## Timeline
@@ -15,12 +17,12 @@ MVP - due 4/21
 
 #### MVP
 
-- [ ] Game title screen
+- [ ] Game title screen (deadline: 3/1)
   - [ ] Make it stand out using as many colors and being creative with the way it looks
   - [ ] Make the "start" button work
   - [ ] Make a "settings" page
   - [ ] Make a "controls page"
-- [ ] Platforming game itself
+- [ ] Platforming game itself (deadline 6/1)
   - [ ] Create a sprite of whatever character I want
   - [ ] Make the character move every control
   - [ ] Make any sprite an enemy and get a game over
@@ -29,9 +31,11 @@ MVP - due 4/21
 
 #### Beyond MVP
 
-- [ ] Task
-  - [ ] Subtask
-
+- [ ] Add music to each screen i.e. the title, settings, levels
+  - [ ] Make the music sound fitting to the screens
+- [ ] Make different types of levels
+  - [ ] Make them look like different types of aesthetic like snow, grass, rock, castle, sky, underwater, desert, forest, city, etc.
+- [ ] Make fun challenge or bonus levels
 
 <!-- EXAMPLE
 
