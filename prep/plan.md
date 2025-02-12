@@ -7,7 +7,7 @@ For my freedom project, I will be makeing a platforming game. For this, I will b
 
 ### Breaking down tasks
 
-To make things easier, I can start with one piece of the project at a time. I can start with how the background of the level(s) would look. And if I like how the background looks, I can start adding the grounds and platforms.
+To make things easier, I can start with one piece of the project at a time. I can start the title screen, make it pop out and add the "Start" button to start playing the game, and a button to go to the settings and controls. Then I can start with how the background of the level(s) would look. And if I like how the background looks, I can start adding the grounds and platforms. After I add the platforms and grounds, I can start creating and adding the sprites for the player, enemies, teleporters, and points. After that, I can make the screens for when I win or lose.
 
 ---
 
