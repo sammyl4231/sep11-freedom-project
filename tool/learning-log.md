@@ -92,6 +92,14 @@ $ npm install kaboom
 
 I tinkered with the [postEffect](https://kaboomjs.com/play?example=postEffect) tutorial. This tutorial is also like the platforming tutorial, except that you can make the graphics look different by pressing the up and down arrow keys.
 
+### 2/24/25
+
+* Now that I've tried many different types of codes for my freedom project, my next step is to put them into action. I need to see how they really run so my freedom project is fully and correctly interactive, as it will be used by other people.
+
+* I can use the [dialog](https://kaboomjs.com/play?example=dialog) feature for when there's new players. I can make the dialog sound like a greeting to new players, telling them the controls, the purpose of the game, and how to play the game.
+
+* I will use the [platformer](https://kaboomjs.com/play?example=platformer) feature to make the game. Levels of different types of seasons and worlds.
+
 <!--
 * Links you used today (websites, videos, etc)
 * Things you tried, progress you made, etc
