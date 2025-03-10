@@ -100,6 +100,14 @@ I tinkered with the [postEffect](https://kaboomjs.com/play?example=postEffect) t
 
 * I will use the [platformer](https://kaboomjs.com/play?example=platformer) feature to make the game. Levels of different types of seasons and worlds.
 
+### 3/10/25 MAR10 Day
+
+* I tinkered with the platformer tutorial, and changed a few things, to determine how my freedom project code will run. I changed the duration of the apple's enlarge affect.
+
+* I will make sure I make my freedom project look different than the tutorial on Kaboom. I will make changes to the code so it won't look like I plagiarized.
+
+* I will make this project look like a deluxe version of the tutorial. I will make my own code to make it look newly made and more enjoyable when other people see and use my project.
+
 <!--
 * Links you used today (websites, videos, etc)
 * Things you tried, progress you made, etc
