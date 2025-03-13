@@ -68,7 +68,7 @@ $ npm install kaboom
 
 * In the [rpg](https://kaboomjs.com/play?example=rpg) tutorial, Bean and friends are trapped in rooms and Bean needs to collect the key to unlock the door to escape the room. Bean's friends are there to help Bean get out. I used the arrow keys to move, when Bean goes to a friend, it shows a helpful message from the friend. When Bean collects the key, Bean can open the door and go to the next level.
 
-### 12/16/24
+### 12/16/24 LL6
 
 * I tinkered with the [ai](https://kaboomjs.com/play?example=ai) tutorial. In this tutorial, I used the arrow keys to move Bean around the output screen, and Ghosty follows him. At a certain point, Ghosty stops and shoots a bullet at Bean where he stops. When Bean gets shot, he disappears with a "Kaboom".
 
@@ -76,7 +76,7 @@ $ npm install kaboom
 
 * I tinkered with the [tween](https://kaboomjs.com/play?example=tween) tutorial. In this tutorial, when I used my cursor and clicked on the output screen, Bean would move in the direction and position of my cursor. I also used the arrow keys to change the text in upper left corner: `linear`, `easeInSine`, `easeOutSine`, `easeInOutSine`, `easeInQuad`, `easeOutQuad`, `easeInOutQuad`, `easeInCubic`, `easeOutCubic`, `easeInOutCubic`, etc.
 
-### 1/6/25
+### 1/6/25 LL7
 
 * I tinkered with the [scenes](https://kaboomjs.com/play?example=scenes) tutorial. This is like the platforming tutorial, but things are very different. In this tutorial, you move Bean across the blocks, collect the coins, go through the portals, and avoid the danger. When you collect 3 coins, you clear the level. Unlike the plaforming game, you have to go through all 3 parts of the level. You use the arrow keys to move, and the space bar to jump. Avoid the spikes and voids.
 
@@ -84,7 +84,7 @@ $ npm install kaboom
 
 * I thinkered with the [flamebar](https://kaboomjs.com/play?example=flamebar) tutorial. In this tutorial, you use the arrow keys to move Bean around the screen, but he has to avoid touching the "flamebars", which are made out of pineapples. When Bean touches the "flamebars", he disappears in a "Kaboom".
 
-### 1/14/25
+### 1/14/25 LL8
 
 * I tinkered with the [egg](https://kaboomjs.com/play?example=egg) tutorial. This tutorial is Bean laying eggs! The eggs will appear in Bean's previous spot and Bean will move to a different spot when you press the space bar. And there's a score counter at the top left, but usually you don't see it do anything.
 
@@ -92,7 +92,7 @@ $ npm install kaboom
 
 I tinkered with the [postEffect](https://kaboomjs.com/play?example=postEffect) tutorial. This tutorial is also like the platforming tutorial, except that you can make the graphics look different by pressing the up and down arrow keys.
 
-### 2/24/25
+### 2/24/25 LL9
 
 * Now that I've tried many different types of codes for my freedom project, my next step is to put them into action. I need to see how they really run so my freedom project is fully and correctly interactive, as it will be used by other people.
 
@@ -100,7 +100,7 @@ I tinkered with the [postEffect](https://kaboomjs.com/play?example=postEffect) t
 
 * I will use the [platformer](https://kaboomjs.com/play?example=platformer) feature to make the game. Levels of different types of seasons and worlds.
 
-### 3/10/25 MAR10 Day
+### 3/10/25 MAR10 Day LL10
 
 * I tinkered with the platformer tutorial, and changed a few things, to determine how my freedom project code will run. I changed the duration of the apple's enlarge affect.
 
