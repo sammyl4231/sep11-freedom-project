@@ -108,6 +108,14 @@ I tinkered with the [postEffect](https://kaboomjs.com/play?example=postEffect) t
 
 * I will make this project look like a deluxe version of the tutorial. I will make my own code to make it look newly made and more enjoyable when other people see and use my project.
 
+### 3/24/25 LL11
+
+* I tinkered with the [sprite](https://kaboomjs.com/play?example=sprite) tutorial. This tutorial allows you to use the arrow keys to move the sprite left to right, and press the space bar to jump up. The `Anim` part of the output is the current status of the sprite. When it says `idle`, the sprite is just standing on the ground. When it says `jump`, it shows the sprite is jumping.
+
+* `idle` counts from 0 to 3. `run` counts from 4 to 7. `Anim` will be set to `run` when the sprite is moving left to right. I will use this part of the code to control the moving sprite when I make my platforming game for my freedom project.
+
+* I tinkered with the [size](https://kaboomjs.com/play?example=size) tutorial. I will use this to make the size of the platforms and sprites visible enough to everyone who will see my project. I won't make it too big or too small, I will make it just the right size for a presentation.
+
 <!--
 * Links you used today (websites, videos, etc)
 * Things you tried, progress you made, etc
