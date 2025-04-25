@@ -22,4 +22,4 @@ My current stage in engineering design process is Define the Problem. I just sta
 
 ### Skills
 
-Two skills I developed are collaboration, growth mindset, and embracing failure. I ask my peers and teacher for help when something goes wrong and how they can help me. I won't let my mistakes slow me down or make me give up in this project. I will also work on working on this project in a timely manner.
+Two skills I developed are collaboration, growth mindset, and embracing failure. I ask my peers and teacher for help when something goes wrong and how they can help me. I had bugs in my code and it wouldn't work how I wanted them to. So I consider asking on slack. I won't let my mistakes slow me down or make me give up in this project. I will also work on working on this project in a timely manner.
