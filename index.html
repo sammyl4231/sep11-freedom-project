@@ -9,19 +9,21 @@
         })
 
         // load assets
-        loadSprite("mario", "mario-49286.png")
-        loadSprite("goomba", "NSMBDS_Goomba_Artwork.webp")
-        loadSprite("spike", "spike.png")
-        loadSprite("grass", "grass (1).png")
-        loadSprite("steel", "steel.png")
-        loadSprite("mushroom", "pngimg.com - mario_PNG75.png")
-        loadSprite("warp door", "P_Warp_Door_SMM_NSMBU_sprite.webp")
-        loadSprite("coin", "Coin_-_New_Super_Mario_Bros.webp")
-        loadSound("coin", "/examples/sounds/score.mp3")
-        loadSound("powerup", "/examples/sounds/powerup.mp3")
-        loadSound("blip", "")
-        loadSound("hit", "/examples/sounds/hit.mp3")
-        loadSound("portal", "/examples/sounds/portal.mp3")
+        loadSprite("mario", "sprites/mario-49286.png")
+        loadSprite("goomba", "sprites/NSMBDS_Goomba_Artwork.webp")
+        loadSprite("spike", "sprites/spike.png")
+        loadSprite("grass", "sprites/grass (1).png")
+        loadSprite("steel", "sprites/steel.png")
+        loadSprite("mushroom", "sprites/pngimg.com - mario_PNG75.png")
+        loadSprite("warp door", "sprites/P_Warp_Door_SMM_NSMBU_sprite.webp")
+        loadSprite("coin", "sprites/Coin_-_New_Super_Mario_Bros.webp")
+        loadSprite("warp pipe", "sprites/Mario-Pipe-PNG-Cutout.png")
+        loadSprite("item box", "sprites/Retro-Block-Question-2-icon.png")
+        loadSound("coin", "sounds/examples_sounds_score.mp3")
+        loadSound("powerup", "sounds/examples_sounds_powerup.mp3")
+        loadSound("blip", "sounds/examples_sounds_blip.mp3")
+        loadSound("hit", "sounds/examples_sounds_hit.mp3")
+        loadSound("signal", "sounds/examples_sounds_signal.mp3")
 
         setGravity(3200)
 
@@ -43,6 +45,119 @@
         }
     }
 
+        function big() {
+            let timer = 0
+            let isBig = false
+            let destScale = 1
+            return {
+                // component id / name
+                id: "big",
+                // it requires the scale component
+                require: [ "scale" ],
+                // this runs every frame
+                update() {
+                    if (isBig) {
+                        timer -= dt()
+                        if (timer <= 0) {
+                        this.smallify()
+				}
+			}
+			this.scale = this.scale.lerp(vec2(destScale), dt() * 6)
+		},
+
+        // custom methods
+                isBig() {
+                    return isBig
+                },
+                smallify() {
+                    destScale = 1
+                    timer = 0
+                    isBig = false
+                },
+                biggify(time) {
+                    destScale = 2
+                    timer = time
+                    isBig = true
+                },
+            }
+        }
+
+        // define some constants
+        const JUMP_FORCE = 1320
+        const MOVE_SPEED = 480
+        const FALL_DEATH = 2400
+
+
+
+
+
+
+
+        const levelConf = {
+        tileWidth: 64,
+        tileHeight: 64,
+        tiles: {
+
+            "=": () => [
+			sprite("grass"),
+			area(),
+			body({ isStatic: true }),
+			anchor("bot"),
+			offscreen({ hide: true }),
+			"platform",
+		],
+
+		"$": () => [
+			sprite("coin"),
+			area(),
+			pos(0, -9),
+			anchor("bot"),
+			offscreen({ hide: true }),
+			"coin",
+		],
+		"%": () => [
+			sprite("item box"),
+			area(),
+			body({ isStatic: true }),
+			anchor("bot"),
+			offscreen({ hide: true }),
+			"item box",
+		],
+		"^": () => [
+			sprite("spike"),
+			area(),
+			body({ isStatic: true }),
+			anchor("bot"),
+			offscreen({ hide: true }),
+			"danger",
+		],
+		"#": () => [
+			sprite("mushroom"),
+			area(),
+			anchor("bot"),
+			body(),
+			offscreen({ hide: true }),
+			"mushroom",
+		],
+		">": () => [
+			sprite("goomba"),
+			area(),
+			anchor("bot"),
+			body(),
+			patrol(),
+			offscreen({ hide: true }),
+			"enemy",
+		],
+		"@": () => [
+			sprite("warp pipe"),
+			area({ scale: 0.5 }),
+			anchor("bot"),
+			pos(0, -12),
+			offscreen({ hide: true }),
+			"warp pipe",
+		],
+	},
+}
 
 
     </script>
