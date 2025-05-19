@@ -89,8 +89,8 @@
 // How the levels would look using symbols to represent the sprites
 const LEVELS = [
 	[
-		"    0       ",
-		"   --       ",
+		"            ",
+		"    	     ",
 		"       $$   ",
 		" %    ===   ",
 		"            ",
@@ -206,10 +206,7 @@ const LEVELS = [
 				big(),
 				anchor("bot"),
 			])
-
-		})
-
-		// action() runs every frame
+// action() runs every frame
 			player.onUpdate(() => {
 				// center camera to player
 				camPos(player.pos)
@@ -348,19 +345,22 @@ const LEVELS = [
 
 			scene("lose", () => {
 				add([
-					text("You Lose"),
+					text("You Lose...Refresh to try again"),
 				])
 				onKeyPress(() => go("game"))
 			})
 
 			scene("win", () => {
 				add([
-					text("You Win"),
+					text("You Win! Refresh to play again!"),
 				])
 				onKeyPress(() => go("game"))
 			})
 
 			go("game")
+
+		})
+
 
 
 
