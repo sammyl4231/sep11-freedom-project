@@ -264,11 +264,11 @@ const LEVELS = [
 
 			let hasMushroom = false
 
-			// grow an apple if player's head bumps into an obj with "prize" tag
+			// grow a mushroom if player's head bumps into an obj with "item box" tag
 		player.onHeadbutt((obj) => {
-			if (obj.is("prize") && !hasMushroom) {
-				const apple = level.spawn("#", obj.tilePos.sub(0, 1))
-				apple.jump()
+			if (obj.is("item box") && !hasMushroom) {
+				const mushroom = level.spawn("#", obj.tilePos.sub(0, 1))
+				mushroom.jump()
 				hasMushroom = true
 				play("blip")
 			}
