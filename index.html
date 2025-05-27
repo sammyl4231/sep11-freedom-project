@@ -9,7 +9,7 @@
         })
 
         // load assets
-        loadSprite("player", "sprites/mario-49286.png")
+        loadSprite("mario", "sprites/mario-49286 (1).png")
         loadSprite("goomba", "sprites/NSMBDS_Goomba_Artwork.webp")
         loadSprite("spike", "sprites/spike.png")
         loadSprite("grass", "sprites/grass (1).png")
@@ -196,7 +196,7 @@ const LEVELS = [
 
 			// define player object
 			const player = add([
-				sprite("bean"),
+				sprite("mario"),
 				pos(0, 0),
 				area(),
 				scale(1),
@@ -206,7 +206,7 @@ const LEVELS = [
 				big(),
 				anchor("bot"),
 			])
-// action() runs every frame
+		// action() runs every frame
 			player.onUpdate(() => {
 				// center camera to player
 				camPos(player.pos)
@@ -357,11 +357,9 @@ const LEVELS = [
 				onKeyPress(() => go("game"))
 			})
 
-			go("game")
-
 		})
 
-
+go("game")
 
 
     </script>
