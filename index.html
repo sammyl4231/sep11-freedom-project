@@ -274,8 +274,8 @@ const LEVELS = [
 			}
 		})
 
-		// player grows big onCollide with an "apple" obj
-		player.onCollide("apple", (a) => {
+		// player grows big onCollide with an "mushroom" obj
+		player.onCollide("mushroom", (a) => {
 			destroy(a)
 			// as we defined in the big() component
 			player.biggify(3)
