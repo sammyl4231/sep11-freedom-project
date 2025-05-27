@@ -217,7 +217,7 @@ const LEVELS = [
 			})
 
 			player.onBeforePhysicsResolve((collision) => {
-				if (collision.target.is(["platform", "soft"]) && player.isJumping()) {
+				if (collision.target.is(["grass", "soft"]) && player.isJumping()) {
 					collision.preventResolution()
 				}
 			})
@@ -233,8 +233,8 @@ const LEVELS = [
 		play("hit")
 	})
 
-	player.onCollide("portal", () => {
-			play("portal")
+	player.onCollide("warp door", () => {
+			play("signal")
 			if (levelId + 1 < LEVELS.length) {
 				go("game", {
 					levelId: levelId + 1,
