@@ -5,7 +5,7 @@
 
 Today I presented my freedom project at an Expo to many judges. I told them everything I did to make my freedom project. I gave detials of what tool I used to make it, challenges I had, my takeaways, the purpose of my project, etc. During the expo elevator pitch, judges and alumnis were collecting information about our projects; what tool we learned and used to make it, challenges we had, takeaways from the project, and anything we can do in the future.
 
-During in-class presentations, some takeaways were 
+During in-class presentations, some takeaways were to ask for help when you need it, don't give up on what you desire or are trying to make, manage your time and do things in a timely manner, don't wait until the last minute, and try to find errors in the code of what's causing the preview to break.
 
 ### Sources
 
