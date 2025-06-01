@@ -27,11 +27,19 @@ Overall, this freedom project really made me learn a lot from making it. After d
 * Global
   - It's impossible to do this type of thing irl
   - Nobody gets hurt irl
-  - People can play for fun
+
 
 **Cons:**
 
-
+* Social
+  - You could get frustrated if you keep dying or can't get to somewhere
+  - Could be addicting
+ 
+* Game
+  - Some parts have high areas where the player can't jump up themselves
+  - You can fall off the levels as there is no constrain to stay on the platforms
+  - If the player touches the goombas, you have to start over
+    
 
 [Previous](entry06.md) | [Next](entry08.md)
 
