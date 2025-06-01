@@ -15,6 +15,11 @@ During in-class presentations, some takeaways were to ask for help when you need
 
 [My freedom project presentation slideshow](https://docs.google.com/presentation/d/14kalH-hn7YPXT5Uv6CSYhmFEPAwNgFNbv6bLSDWFRxs/edit?slide=id.g357eef5c0e5_0_5#slide=id.g357eef5c0e5_0_5)
 
+### Engineering Design Process
+
+When doing this project, my first stage in Engineering Design Process were to Define the problem, I looked at where my code was having bugs and breaking in my preview. My next stage was Improve as needed, where I had to fix the errors and bugs in the code, and see if it worked properly. But unfortunately, it didn't work quite as I expected it to. And my final stage was Communicate the results, when I was presenting my project to the judges and other students in the Expo elevator pitch, I was telling them every step of my project; how I started, how it was going, the errors I had, struggles with setting up, and how I fixed the errors.
+
+
 [Previous](entry05.md) | [Next](entry07.md)
 
 [Home](../README.md)
