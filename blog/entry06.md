@@ -19,6 +19,10 @@ During in-class presentations, some takeaways were to ask for help when you need
 
 When doing this project, my first stage in Engineering Design Process were to Define the problem, I looked at where my code was having bugs and breaking in my preview. My next stage was Improve as needed, where I had to fix the errors and bugs in the code, and see if it worked properly. But unfortunately, it didn't work quite as I expected it to. And my final stage was Communicate the results, when I was presenting my project to the judges and other students in the Expo elevator pitch, I was telling them every step of my project; how I started, how it was going, the errors I had, struggles with setting up, and how I fixed the errors.
 
+### Skills
+
+My first skill I had while doing this project were Collaboration, I asked my peers and teacher for help when my code wasn't working properly, and they gave me some helpful advice on how I can make my code work. My next skill was Communication, I was presenting how I made my freedom project, my actual freedom project, and what I learned from making it. My next skill was Consideration, which I knew that this project was gonna be seen by other people in the school, in lower grades, and outside the school. My final skill was Embracing failure, when I saw that my code wasn't working, I didn't let it make me give up. I looked deep into my code to see what was wrong and why it wasn't working properly, and I tried to fix it myself.
+
 
 [Previous](entry05.md) | [Next](entry07.md)
 
