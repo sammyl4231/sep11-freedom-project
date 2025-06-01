@@ -3,7 +3,7 @@
 
 ### Content
 
-Today I presented my freedom project at an Expo to many judges. I told them everything I did to make my freedom project. I gave detials of what tool I used to make it, challenges I had, my takeaways, the purpose of my project, etc. During the expo elevator pitch, judges and alumnis were collecting information about our projects; what tool we learned and used to make it, challenges we had, takeaways from the project, and anything we can do in the future.
+Today I presented my freedom project at an Expo to many judges. I told them everything I did to make my freedom project. I gave details of what tool I used to make it, challenges I had, my takeaways, the purpose of my project, etc. During the expo elevator pitch, judges and alumnis were collecting information about our projects; what tool we learned and used to make it, challenges we had, takeaways from the project, and anything we can do in the future.
 
 During my expo elevator pitch, some takeaways were to have my project's code functioning properly and ready to show to other people who will see it, make sure there are no errors or bugs in your code/preview, and to be specific when explaining the point of your project.
 
